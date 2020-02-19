@@ -2,6 +2,9 @@
 
 > A curated list of tools that can be found useful by open source project owners.
 
+Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
+
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Contents**
