@@ -1,8 +1,8 @@
+![Awesome Tools For Open Source Project Owners](./assets/images/Tools_For_Open_Source_Project_Owners_logo.png)
+
 # Awesome Tools For Open Source Project Owners [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools that can be found useful by open source project owners.
-
-![Awesome Tools For Open Source Project Owners](./assets/images/Tools_For_Open_Source_Project_Owners_logo.png)
 
 Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
