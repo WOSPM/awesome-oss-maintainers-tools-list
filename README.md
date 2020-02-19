@@ -1,8 +1,8 @@
-# Awesome List Of Tools For Open Source Project Owners
+# Awesome Tools For Open Source Project Owners
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/WOSPM/tool-list/workflows/Lint%20Awesome%20List/badge.svg)
 
-A curated list of tools that can be found useful by open source project owners.
+> A curated list of tools that can be found useful by open source project owners.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
