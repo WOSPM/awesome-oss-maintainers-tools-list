@@ -1,6 +1,4 @@
-# Awesome Tools For Open Source Project Owners
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/WOSPM/tool-list/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome Tools For Open Source Project Owners [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/WOSPM/tool-list/workflows/Lint%20Awesome%20List/badge.svg)
 
 > A curated list of tools that can be found useful by open source project owners.
 
