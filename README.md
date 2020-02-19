@@ -34,6 +34,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Read the Docs](https://readthedocs.org/) - Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you.
 - [GitHub Pages](https://pages.github.com/) - Websites hosted directly from your GitHub repository. 
 
-## Promote The Project
+## Project Promotion
 
 - [Promote Open Source Project](https://github.com/zenika-open-source/promote-open-source-project) - Summarizes important steps you should follow to promote your open source project.
+- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A collection of AWESOME Linux applications and tools.
+- [Hackernoon](https://hackernoon.com/) - An Independent Tech Media Site.
+- [Hacker News](https://news.ycombinator.com/) - website focusing on computer science and entrepreneurship.
+- [Open Source on Reddit](https://www.reddit.com/r/opensource/) - A subreddit for everything open source related.
