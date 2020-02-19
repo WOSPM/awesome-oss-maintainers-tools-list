@@ -25,6 +25,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [One Community](https://www.onecommunityglobal.org/open-source/) - One Community is open source and free-sharing resources and solutions for all aspects of sustainable and globally-regenerative living.
 - [Choose an open source license](https://choosealicense.com/) - Helps you to choose a license.
 - [Open Source Documentation by Zalando](https://opensource.zalando.com/docs) - For Zalando employees, on how to adopt, modify and release Open Source code.
+- [CHAOSS](https://chaoss.community/) - A Linux Foundation project focused on creating analytics and metrics to help define community health.
 
 ## Documentation Tools, Helpers And Publishers
 
