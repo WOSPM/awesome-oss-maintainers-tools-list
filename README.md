@@ -6,7 +6,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+**Contents**
 
 - [Guides](#guides)
 - [Documentation Tools, Helpers And Publishers](#documentation-tools-helpers-and-publishers)
@@ -28,4 +28,3 @@
 - [Docusaurus By Facebook](https://docusaurus.io/) - Docusaurus makes it easy to maintain Open Source documentation websites.
 - [Read the Docs](https://readthedocs.org/) - Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you.
 - [GitHub Pages](https://pages.github.com/) - Websites hosted directly from your GitHub repository. 
-
