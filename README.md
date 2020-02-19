@@ -1,10 +1,12 @@
 # Awesome List Of Tools For Open Source Project Owners
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of tools that can be found useful by open source project owners.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-Table of Contents
+## Table of Contents
 
 - [Guides](#guides)
 - [Documentation Tools, Helpers And Publishers](#documentation-tools-helpers-and-publishers)
@@ -13,7 +15,7 @@ Table of Contents
 
 ## Guides
 
-- [Open Source Guides By Github](https://opensource.guide/) - A collection of resources for individuals, communities, and companies.
+- [Open Source Guides By GitHub](https://opensource.guide/) - A collection of resources for individuals, communities, and companies.
 - [Open Source Documentation By Google](https://opensource.google/docs/) - A copy of our internal open source documentation of Google, with a few exceptions.
 - [Guides By TODO Group](https://todogroup.org/guides/) - Developed by the TODO Group in collaboration with The Linux Foundation and the larger open source community.
 - [Open Source Guides For The Enterprise By Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/) - Leverage best practices for running an open source program office or starting an open source project in your organization.
