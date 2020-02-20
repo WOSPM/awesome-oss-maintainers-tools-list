@@ -51,4 +51,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [CodeTriage](https://www.codetriage.com/) - A communutiy tool to gather maintainers and possible contributors.
 - [First Timers Only](https://www.firsttimersonly.com/) - A community tool for listing very easy issues to get the first timers to the project.
 - [24 Pull Requests](https://24pullrequests.com/) - The site suggests open projects, highlights tickets that are good for new contributors.
-- [](https://fixme.ossn.club/projects) - FixMe is an opensource platform maintained by the Open Source Students Network affiliated to Mozilla.
+- [FixMe](https://fixme.ossn.club/projects) - FixMe is an opensource platform maintained by the Open Source Students Network affiliated to Mozilla.
