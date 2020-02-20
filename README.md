@@ -26,6 +26,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Choose an open source license](https://choosealicense.com/) - Helps you to choose a license.
 - [Open Source Documentation by Zalando](https://opensource.zalando.com/docs) - For Zalando employees, on how to adopt, modify and release Open Source code.
 - [CHAOSS](https://chaoss.community/) - A Linux Foundation project focused on creating analytics and metrics to help define community health.
+- [Open Source Best Practices by 10up](https://10up.github.io/Open-Source-Best-Practices/) - This guide is written with groups releasing smaller-scale open source software in mind.
 
 ## Documentation Tools, Helpers And Publishers
 
