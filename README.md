@@ -1,11 +1,12 @@
-![Awesome Tools For Open Source Project Owners](./assets/images/Tools_For_Open_Source_Project_Owners_logo.png)
+![Awesome Tools For Open Source Project Maintainers](./assets/images/Tools_For_Open_Source_Project_Owners_logo.png)
 
-# Awesome Tools For Open Source Project Owners [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Tools And Resources For Open Source Project Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools that can be found useful by open source project owners.
+> A curated list of tools and resources that can be found useful by open source project maintainers.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
+---
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
@@ -15,6 +16,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Promote The Project](#promote-the-project)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+---
 
 ## Guides
 
@@ -34,7 +36,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Contributor Covenant](https://www.contributor-covenant.org/) - A ready-to-use Code of Conduct for open source projects.
 - [Docusaurus By Facebook](https://docusaurus.io/) - Docusaurus makes it easy to maintain Open Source documentation websites.
 - [Read the Docs](https://readthedocs.org/) - Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you.
-- [GitHub Pages](https://pages.github.com/) - Websites hosted directly from your GitHub repository. 
+- [GitHub Pages](https://pages.github.com/) - Websites hosted directly from your GitHub repository.
+- [Write the Docs](https://www.writethedocs.org/) - A global community of people who care about documentation.
+- [MkDocs](https://github.com/mkdocs/mkdocs/) - Project documentation with Markdown.
 
 ## Project Promotion
 
@@ -43,3 +47,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Hackernoon](https://hackernoon.com/) - An Independent Tech Media Site.
 - [Hacker News](https://news.ycombinator.com/) - website focusing on computer science and entrepreneurship.
 - [Open Source on Reddit](https://www.reddit.com/r/opensource/) - A subreddit for everything open source related.
+- [Up For Grabs](https://up-for-grabs.net/) - A list of projects which have curated tasks specifically for new contributors.
+- [CodeTriage](https://www.codetriage.com/) - A communutiy tool to gather maintainers and possible contributors.
+- [First Timers Only](https://www.firsttimersonly.com/) - A community tool for listing very easy issues to get the first timers to the project.
+- [24 Pull Requests](https://24pullrequests.com/) - The site suggests open projects, highlights tickets that are good for new contributors.
+- [](https://fixme.ossn.club/projects) - FixMe is an opensource platform maintained by the Open Source Students Network affiliated to Mozilla.
