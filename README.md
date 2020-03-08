@@ -7,15 +7,11 @@
 Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ---
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
 - [Guides](#guides)
 - [Documentation Tools, Helpers And Publishers](#documentation-tools-helpers-and-publishers)
 - [Promote The Project](#promote-the-project)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ---
 
 ## Guides
