@@ -7,7 +7,7 @@
 Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ---
-## Table of Contents
+## Contents
 
 - [Guides](#guides)
 - [Documentation Tools, Helpers And Publishers](#documentation-tools-helpers-and-publishers)
