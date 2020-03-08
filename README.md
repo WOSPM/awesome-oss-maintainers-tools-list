@@ -11,7 +11,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 - [Guides](#guides)
 - [Documentation Tools, Helpers And Publishers](#documentation-tools-helpers-and-publishers)
-- [Promote The Project](#promote-the-project)
+- [Project Promotion](#project-promotion)
 ---
 
 ## Guides
