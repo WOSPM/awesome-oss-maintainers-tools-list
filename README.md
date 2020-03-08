@@ -46,7 +46,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Promote Open Source Project](https://github.com/zenika-open-source/promote-open-source-project) - Summarizes important steps you should follow to promote your open source project.
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A collection of AWESOME Linux applications and tools.
 - [Hackernoon](https://hackernoon.com/) - An Independent Tech Media Site.
-- [Hacker News](https://news.ycombinator.com/) - website focusing on computer science and entrepreneurship.
+- [Hacker News](https://news.ycombinator.com/) - Website focusing on computer science and entrepreneurship.
 - [Open Source on Reddit](https://www.reddit.com/r/opensource/) - A subreddit for everything open source related.
 - [Up For Grabs](https://up-for-grabs.net/) - A list of projects which have curated tasks specifically for new contributors.
 - [CodeTriage](https://www.codetriage.com/) - A communutiy tool to gather maintainers and possible contributors.
