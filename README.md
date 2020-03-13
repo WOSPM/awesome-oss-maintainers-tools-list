@@ -54,13 +54,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## Funding And Finance Management
 
-[Open Funding](https://github.com/ralphtheninja/open-funding) - A guide for researching ways of funding open source projects.
-[Open Collective](https://opencollective.com/) - A transparent process that everyone can donate and track the money.
-[xs:code](https://xscode.com/) - Turn your open source project into a revenue source while keeping your code free.
-[IssueHunt](https://issuehunt.io/) - OSS owners and contributors can get financial support from IssueHunt or other community sponsors through this platform.
-[Flattr](https://flattr.com/) - Provides subscriptions that you divide between the creators you want to support.
-[GitHub Sponsors](https://github.com/sponsors) - GitHub Sponsors is generally available to developers and projects with bank accounts in many countries.
+- [Open Funding](https://github.com/ralphtheninja/open-funding) - A guide for researching ways of funding open source projects.
+- [Open Collective](https://opencollective.com/) - A transparent process that everyone can donate and track the money.
+- [xs:code](https://xscode.com/) - Turn your open source project into a revenue source while keeping your code free.
+- [IssueHunt](https://issuehunt.io/) - OSS owners and contributors can get financial support from IssueHunt or other community sponsors through this platform.
+- [Flattr](https://flattr.com/) - Provides subscriptions that you divide between the creators you want to support.
+- [GitHub Sponsors](https://github.com/sponsors) - GitHub Sponsors is generally available to developers and projects with bank accounts in many countries.
 
 ## Project Management
 
-[Tidelift](https://tidelift.com/) - Tidelift uses a layered approach to keep your open source dependencies trouble-free and enterprise-ready.
+- [Tidelift](https://tidelift.com/) - Tidelift uses a layered approach to keep your open source dependencies trouble-free and enterprise-ready.
