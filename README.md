@@ -14,6 +14,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [Project Promotion](#project-promotion)
 - [Funding And Finance Management](#funding-and-finance-management)
 - [Project Management](#project-management)
+- [Talks, Blog Posts And Interviews](#talks-blog-posts-and-interviews)
 ---
 
 ## Guides
@@ -64,3 +65,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 ## Project Management
 
 - [Tidelift](https://tidelift.com/) - Tidelift uses a layered approach to keep your open source dependencies trouble-free and enterprise-ready.
+
+## Talks, Blog Posts And Interviews
+
+- [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - An [AweSome](https://awesome.re/) list of talks, blog posts, and interviews about the experience of being an open source maintainer.
