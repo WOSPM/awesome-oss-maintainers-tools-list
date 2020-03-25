@@ -65,6 +65,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 ## Project Management
 
 - [Tidelift](https://tidelift.com/) - Tidelift uses a layered approach to keep your open source dependencies trouble-free and enterprise-ready.
+- [Jitsi](https://meet.jit.si/) - A video conferencing tool using open source and standards-compliant webRTC protocols.
+- [Taiga](https://taiga.io/) - A project management tool for multi-functional agile teams.
+- [Matrix](https://matrix.org/) - An open standard and lightweight protocol for real-time communication.
 
 ## Talks, Blog Posts And Interviews
 
