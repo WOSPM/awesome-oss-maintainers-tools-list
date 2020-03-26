@@ -1,4 +1,4 @@
-# Tools And Resources For Open Source Project Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Tools and Resources for Open Source Project Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools and resources that can be found useful by open source project maintainers.
 
