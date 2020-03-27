@@ -1,8 +1,8 @@
-# Tools and Resources for Open Source Project Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome List of OSS Maintainers Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools and resources that can be found useful by open source project maintainers.
+> A curated list of tools and resources that can be found useful by open source software maintainers.
 
-![Awesome Tools For Open Source Project Maintainers](./assets/images/Tools_For_Open_Source_Project_Owners_logo.png)
+![Awesome List of OSS Maintainers Tools](./assets/images/Tools_For_Open_Source_Project_Owners_logo.png)
 
 Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
