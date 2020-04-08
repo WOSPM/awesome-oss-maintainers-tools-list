@@ -19,30 +19,30 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## Guides
 
-- [Open Source Guides By GitHub](https://opensource.guide/) - A collection of resources for individuals, communities, and companies.
-- [Open Source Documentation By Google](https://opensource.google/docs/) - A copy of our internal open source documentation of Google, with a few exceptions.
+- [Guides By GitHub](https://opensource.guide/) - A collection of resources for individuals, communities, and companies.
+- [Documentation By Google](https://opensource.google/docs/) - A copy of our internal open source documentation of Google, with a few exceptions.
 - [Guides By TODO Group](https://todogroup.org/guides/) - Developed by the TODO Group in collaboration with The Linux Foundation and the larger open source community.
-- [Open Source Guides For The Enterprise By Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/) - Leverage best practices for running an open source program office or starting an open source project in your organization.
-- [One Community](https://www.onecommunityglobal.org/open-source/) - One Community is open source and free-sharing resources and solutions for all aspects of sustainable and globally-regenerative living.
-- [Choose an open source license](https://choosealicense.com/) - Helps you to choose a license.
-- [Open Source Documentation by Zalando](https://opensource.zalando.com/docs) - For Zalando employees, on how to adopt, modify and release Open Source code.
+- [Guides For The Enterprise By Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/) - Leverage best practices for starting and running an open source project in your organization.
+- [One Community](https://www.onecommunityglobal.org/open-source/) - Resources and solutions for all aspects of sustainable and globally-regenerative living.
+- [Choose a license](https://choosealicense.com/) - Helps you to choose a license.
+- [Documentation by Zalando](https://opensource.zalando.com/docs) - For Zalando employees, on how to adopt, modify and release Open Source code.
 - [CHAOSS](https://chaoss.community/) - A Linux Foundation project focused on creating analytics and metrics to help define community health.
-- [Open Source Best Practices by 10up](https://10up.github.io/Open-Source-Best-Practices/) - This guide is written with groups releasing smaller-scale open source software in mind.
+- [Best Practices by 10up](https://10up.github.io/Open-Source-Best-Practices/) - This guide is written with groups releasing smaller-scale open source software in mind.
 - [Keep A Changelog](https://keepachangelog.com/en/1.0.0/) - A guide to create a changelog file.
 
 ## Documentation Tools, Helpers And Publishers
 
 - [Make a README](https://www.makeareadme.com/) - A tool for creating a cool README file.
 - [Contributor Covenant](https://www.contributor-covenant.org/) - A ready-to-use Code of Conduct for open source projects.
-- [Docusaurus By Facebook](https://docusaurus.io/) - Docusaurus makes it easy to maintain Open Source documentation websites.
-- [Read the Docs](https://readthedocs.org/) - Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you.
+- [Docusaurus By Facebook](https://docusaurus.io/) - Docusaurus makes it easy to maintain documentation websites.
+- [Read the Docs](https://readthedocs.org/) - Documentation by automating building, versioning, and hosting of your docs for you.
 - [GitHub Pages](https://pages.github.com/) - Websites hosted directly from your GitHub repository.
 - [Write the Docs](https://www.writethedocs.org/) - A global community of people who care about documentation.
 - [MkDocs](https://github.com/mkdocs/mkdocs/) - Project documentation with Markdown.
 
 ## Project Promotion
 
-- [Promote Open Source Project](https://github.com/zenika-open-source/promote-open-source-project) - Summarizes important steps you should follow to promote your open source project.
+- [Promote Open Source Project](https://github.com/zenika-open-source/promote-open-source-project) - Summarizes important steps you should follow to promote your project.
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A collection of AWESOME Linux applications and tools.
 - [Hackernoon](https://hackernoon.com/) - An Independent Tech Media Site.
 - [Hacker News](https://news.ycombinator.com/) - Website focusing on computer science and entrepreneurship.
@@ -51,21 +51,21 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [CodeTriage](https://www.codetriage.com/) - A communutiy tool to gather maintainers and possible contributors.
 - [First Timers Only](https://www.firsttimersonly.com/) - A community tool for listing very easy issues to get the first timers to the project.
 - [24 Pull Requests](https://24pullrequests.com/) - The site suggests open projects, highlights tickets that are good for new contributors.
-- [FixMe](https://fixme.ossn.club/projects) - FixMe is an opensource platform maintained by the Open Source Students Network affiliated to Mozilla.
+- [FixMe](https://fixme.ossn.club/projects) - A platform maintained by the Open Source Students Network affiliated to Mozilla.
 
 ## Funding And Finance Management
 
-- [Open Funding](https://github.com/ralphtheninja/open-funding) - A guide for researching ways of funding open source projects.
+- [Open Funding](https://github.com/ralphtheninja/open-funding) - A guide for researching ways of funding projects.
 - [Open Collective](https://opencollective.com/) - A transparent process that everyone can donate and track the money.
-- [xs:code](https://xscode.com/) - Turn your open source project into a revenue source while keeping your code free.
-- [IssueHunt](https://issuehunt.io/) - OSS owners and contributors can get financial support from IssueHunt or other community sponsors through this platform.
+- [xs:code](https://xscode.com/) - Turn your project into a revenue source while keeping your code free.
+- [IssueHunt](https://issuehunt.io/) - A platform for owners and contributors to get financial support.
 - [Flattr](https://flattr.com/) - Provides subscriptions that you divide between the creators you want to support.
 - [GitHub Sponsors](https://github.com/sponsors) - GitHub Sponsors is generally available to developers and projects with bank accounts in many countries.
 
 ## Project Management
 
-- [Tidelift](https://tidelift.com/) - Tidelift uses a layered approach to keep your open source dependencies trouble-free and enterprise-ready.
-- [Jitsi](https://meet.jit.si/) - A video conferencing tool using open source and standards-compliant webRTC protocols.
+- [Tidelift](https://tidelift.com/) - Keep your open source dependencies trouble-free and enterprise-ready.
+- [Jitsi](https://meet.jit.si/) - A video conferencing tool.
 - [Taiga](https://taiga.io/) - A project management tool for multi-functional agile teams.
 - [Matrix](https://matrix.org/) - An open standard and lightweight protocol for real-time communication.
 
