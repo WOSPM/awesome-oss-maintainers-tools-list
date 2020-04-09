@@ -39,6 +39,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [GitHub Pages](https://pages.github.com/) - Websites hosted directly from your GitHub repository.
 - [Write the Docs](https://www.writethedocs.org/) - A global community of people who care about documentation.
 - [MkDocs](https://github.com/mkdocs/mkdocs/) - Project documentation with Markdown.
+- [Feedmereadmes](https://github.com/LappleApple/feedmereadmes) - A README Help Exchange.
 
 ## Project Promotion
 
